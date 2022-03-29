@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "name": "projeto novo",
+      "budget": "100000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Projeto xpto",
+      "budget": "9998",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 213,
+      "services": {
+        "name": "jk",
+        "cost": "52",
+        "description": "vgg",
+        "id": "4a3051f6-5fbc-4773-94b7-371fb0ce8964"
+      },
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
